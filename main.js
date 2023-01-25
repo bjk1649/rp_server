@@ -2,6 +2,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const kakao_auth = require('./kakao_auth.js');
 
 //express 서버 실행
 app.listen(port, () => {

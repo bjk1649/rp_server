@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 //https://github.com/FirebaseExtended/custom-auth-samples/tree/master/kakao 카카오에서 제공하는 본 코드입니다.
 const admin = require('./firebase_admin.js');
 const Async = require('async');
